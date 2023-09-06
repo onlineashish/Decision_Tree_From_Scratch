@@ -1,0 +1,6 @@
+1. https://towardsdatascience.com/decision-tree-from-scratch-in-python-46e99dfea775
+2. https://pandas.pydata.org/docs/
+3. https://towardsdatascience.com/how-to-split-a-dataset-into-training-and-testing-sets-b146b1649830
+4. https://www.featureranking.com/tutorials/machine-learning-tutorials/information-gain-computation/
+5. https://stackoverflow.com/questions/59800189/reading-data-file-using-pandas
+6. https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html
